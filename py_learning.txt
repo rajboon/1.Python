@@ -1,0 +1,7 @@
+data types
+
+Numbers - Integer, Complex numbers, float
+Dictionary - it is like map of java
+Boolean - true or false
+Set
+Sequence Type - str, list - [], tuple () - same like list but closing with curved bracket
